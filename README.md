@@ -84,7 +84,7 @@ Set this options when creating a new database at LibreOffice Base (you are actua
 For convenience, I've saved it at the project folder. Now you can already see your database.
 
 
-## Bode and its modules
+## Node.js and its modules (Arch Linux)
 
 Install node with
 ```sh
