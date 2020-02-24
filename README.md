@@ -94,7 +94,8 @@ sudo pacman -S nodejs
 Enter the project folder and:
 ```sh
 #npm init
-npm install knex mysql express body-parser --save
+#npm install knex mysql express body-parser --save
+npm install
 # also install knex globally
 sudo npm install knex -g
 ```
