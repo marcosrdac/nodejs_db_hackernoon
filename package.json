@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_db_hackernoon",
+  "version": "1.0.0",
+  "description": "This study is a product of of this [tutorial](https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f) by *hackernoon* for using `MySQL` from inside a `node.js` app, with small changes:   - `MariaDB` implementation for `MySQL` is used; and   - `LibreOffice` is used to view the database.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.20.10",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosrdac/nodejs_db_hackernoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosrdac/nodejs_db_hackernoon/issues"
+  },
+  "homepage": "https://github.com/marcosrdac/nodejs_db_hackernoon#readme"
+}
