@@ -3,6 +3,6 @@ module.exports = {
   connection: {
     user: 'marcosrdac',
     password: '',
-    database: 'tutorial_node_database'
+    database: 'nodehackernoon'
   }
 }
